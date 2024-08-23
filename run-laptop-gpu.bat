@@ -1,1 +1,1 @@
-python run.py --execution-provider dml
+python run.py --execution-provider cuda
